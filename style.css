@@ -23,7 +23,7 @@ menu {
 	list-style-type: none; 
 	font-family: monospace;
 	_background-color: #ccc;
-_background:url('../../../../Images/site/pattern-2y7l.png') repeat scroll 0% 0% transparent ;
+_background:url('images/pattern-2y7l.png') repeat scroll 0% 0% transparent ;
 
 }
 
@@ -39,7 +39,7 @@ menu li a {
 .welcome{
 _border-style: solid;
 _border-color: black;
-	background:url('../../../../Images/site/pattern-2y7l.png') repeat scroll 0% 0% transparent ;
+	background:url('images/pattern-2y7l.png') repeat scroll 0% 0% transparent ;
 }
 
 
@@ -59,7 +59,7 @@ menu li a.welcome{
 	font-weight: inherit;
 }
 
-menu .welcome { _background-color: #0000; color: #0000; _background:url('../../../../Images/site/pattern-2y7l.png') repeat scroll 0% 0% transparent ; 
+menu .welcome { _background-color: #0000; color: #0000; _background:url('images/pattern-2y7l.png') repeat scroll 0% 0% transparent ; 
 }
 menu .presentation { background-color: #65a430; color: #0000;}
 menu .cv { background-color: #e6be18; color: #0000;}
@@ -67,7 +67,7 @@ menu .links { background-color: #f32901; color: #0000;}
 menu .miscellaneous { background-color: #0000fe ; color: #ffffff;}
 
 #main {
-	_background:url('../../../../Images/site/pattern-2y7l.png') repeat scroll 0% 0% transparent ;
+	_background:url('images/pattern-2y7l.png') repeat scroll 0% 0% transparent ;
 	position: fixed;
 	top: 26px;
 	height: 60%;
@@ -98,7 +98,7 @@ h1, h2, h3 {
 }
 
 .welcome #content {
-	_background:url('../../../../Images/site/pattern-2y7l.png') repeat scroll 0% 0% transparent ; 
+	_background:url('images/pattern-2y7l.png') repeat scroll 0% 0% transparent ; 
 	
 	_background-color: #fff;
 	_box-shadow: -4.5em 0 0.5em 4.7em #aaa;
