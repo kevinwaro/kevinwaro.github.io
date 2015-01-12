@@ -6,6 +6,16 @@
 	font-family: 'HankenBook' ; 
 }
 
+@font-face {
+	font-family: HankenBook ;
+	src: url(fonts/Hanken-Book.ttf);
+}
+
+@font-face {
+	font-family: HankenLight;
+	src: url(fonts/Hanken-Light.ttf);
+}
+
 html{
 	height: 100%
 	overflow-y: scroll;
