@@ -21,7 +21,7 @@ div.content {
 	border-right-style: solid;
 	border-bottom-style: solid;
 	width: 75%;
-	height: 65%;
+	.height: 65%;
 	margin-left: 15%;
 	margin-top: 5em;
 }
