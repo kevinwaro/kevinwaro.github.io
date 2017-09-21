@@ -135,3 +135,9 @@ li.uptime {
 	color: #66d9ef;
 	text-decoration: none;
 }
+
+img {
+    width: 14%;
+    position: relative;
+    left: 65%;
+}
