@@ -21,14 +21,14 @@ div.content {
 	border-right-style: solid;
 	border-bottom-style: solid;
 	width: 75%;
-	.height: 65%;
+	height: 65%;
 	margin-left: 15%;
 	margin-top: 5em;
 }
 
 div.left-pane {
 	width: 25%;
-	height: 370px;
+	height: 60%;
 	position: absolute;
 	border-right-style: solid;
 }
@@ -49,7 +49,7 @@ div.left-pane {
 
 div.right-pane {
 	width: 66%;
-	height: 358px;
+	height: 92%;
 	position: relative;
 	left: 34%;
 }
