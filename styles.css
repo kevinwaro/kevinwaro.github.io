@@ -152,3 +152,12 @@ p.header {
 .right-pane > ul {
     list-style-type:none;
 }
+
+.right-pane > pre > span {
+	font-weight: bold;
+    color: #f92672;
+}
+
+pre {
+    color: #f8f8f2; 
+}
