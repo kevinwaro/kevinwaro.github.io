@@ -68,12 +68,31 @@ div.status-bar {
 	border-top-style: solid;
 }
 
-ul {
+.status-bar > ul {
 	font-size: 10px;
 	display: table;
 	table-layout: fixed; /* optional, for equal spacing */
 	border-collapse: collapse;
 	width: 100%;
+}
+
+
+li.username {
+	display: table-cell;
+	text-align: left;
+	vertical-align: middle;
+}
+
+li.window_name {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+li.uptime {
+	display: table-cell;
+	text-align: right;
+	vertical-align: middle;
 }
 
 li {
@@ -82,20 +101,8 @@ li {
 	vertical-align: middle;
 }
 
-li.username {
-	display: table-cell;
-	text-align: left;
-	vertical-align: middle;
-}
-
 .username > span:nth-child(1) {
 	color: #a6e22e;
-}
-
-li.window_name {
-	display: table-cell;
-	text-align: center;
-	vertical-align: middle;
 }
 
 #focus {
@@ -106,11 +113,6 @@ li.window_name {
 	color: #66d9ef;
 }
 
-li.uptime {
-	display: table-cell;
-	text-align: right;
-	vertical-align: middle;
-}
 
 .uptime > span:nth-child(1) {
 	color: #f92672;
@@ -140,4 +142,13 @@ img {
     width: 14%;
     position: relative;
     left: 65%;
+}
+
+p.header {
+	font-weight: bold;
+    color: #f92672;
+}
+
+.right-pane > ul {
+    list-style-type:none;
 }
